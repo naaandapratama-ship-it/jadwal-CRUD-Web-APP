@@ -2,10 +2,8 @@
 
 Proyek ini adalah aplikasi web manajemen jadwal (To-Do List) yang dibangun menggunakan arsitektur **Serverless** di ekosistem **Amazon Web Services (AWS)**. Aplikasi ini memungkinkan pengelolaan data secara dinamis tanpa perlu mengelola server fisik, sehingga lebih efisien dan skalabel.
 ---
-    ```[bash
-    git clone [https://github.com/username/pencatatan-jadwal-aws.git](https://github.com/username/pencatatan-jadwal-aws.git)
-    cd pencatatan-jadwal-aws](https://staging.d3q3z9rxaamyt1.amplifyapp.com/)
-    ```
+    ## Access Web-APP
+    - https://staging.d3q3z9rxaamyt1.amplifyapp.com/
 ---
 
 ## 📌 Deskripsi Proyek
